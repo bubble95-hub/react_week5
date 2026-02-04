@@ -1,0 +1,7 @@
+.card .image-frame {
+  height: 15rem;
+}
+.card .image-size {
+  height: 100%;
+  object-fit: cover;
+}
